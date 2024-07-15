@@ -1,0 +1,107 @@
+[
+    {
+        "email": "user1@example.com",
+        "status": "INBOX",
+        "subject": "Important Update",
+        "flag": "NEW",
+        "date": "Jul 12"
+    },
+    {
+        "email": "user2@example.com",
+        "status": "INBOX",
+        "subject": "Meeting Reminder",
+        "flag": "READ",
+        "date": "Jul 10"
+    },
+    {
+        "email": "user3@example.com",
+        "status": "SENT",
+        "subject": "Project Proposal",
+        "flag": "NEW",
+        "date": "Jul 08"
+    },
+    {
+        "email": "user4@example.com",
+        "status": "INBOX",
+        "subject": "Invoice Attached",
+        "flag": "READ",
+        "date": "Jul 05"
+    },
+    {
+        "email": "user5@example.com",
+        "status": "DRAFT",
+        "subject": "Feedback Request",
+        "flag": "NEW",
+        "date": "Jul 03"
+    },
+    {
+        "email": "user6@example.com",
+        "status": "INBOX",
+        "subject": "LinkedIn - New Connection",
+        "flag": "RES",
+        "date": "Jun 30"
+    },
+    {
+        "email": "user7@example.com",
+        "status": "SENT",
+        "subject": "Follow-Up Email",
+        "flag": "READ",
+        "date": "Jun 25"
+    },
+    {
+        "email": "user8@example.com",
+        "status": "INBOX",
+        "subject": "Job Application",
+        "flag": "NEW",
+        "date": "Jun 20"
+    },
+    {
+        "email": "user9@example.com",
+        "status": "INBOX",
+        "subject": "Newsletter Subscription",
+        "flag": "READ",
+        "date": "Jun 18"
+    },
+    {
+        "email": "user10@example.com",
+        "status": "SENT",
+        "subject": "Weekly Report",
+        "flag": "NEW",
+        "date": "Jun 15"
+    },
+    {
+        "email": "user11@example.com",
+        "status": "DRAFT",
+        "subject": "Client Feedback",
+        "flag": "NEW",
+        "date": "Jun 10"
+    },
+    {
+        "email": "user12@example.com",
+        "status": "INBOX",
+        "subject": "Server Downtime Notification",
+        "flag": "RES",
+        "date": "Jun 05"
+    },
+    {
+        "email": "user13@example.com",
+        "status": "INBOX",
+        "subject": "New Assignment",
+        "flag": "READ",
+        "date": "Jun 01"
+    },
+    {
+        "email": "user14@example.com",
+        "status": "INBOX",
+        "subject": "Holiday Plans",
+        "flag": "NEW",
+        "date": "May 28"
+    },
+    {
+        "email": "user15@example.com",
+        "status": "SENT",
+        "subject": "Project Update",
+        "flag": "READ",
+        "date": "May 25"
+    }
+]
