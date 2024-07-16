@@ -158,5 +158,13 @@
         "subject": "Job Offer",
         "flag": "RES",
         "date": "May 01"
+    },
+    {
+        "id": 21,
+        "email": "user21employeeofkapture@example.com",
+        "status": "INBOX",
+        "subject": "Job Offer not granted issue",
+        "flag": "RES",
+        "date": "July 01"
     }
 ]
