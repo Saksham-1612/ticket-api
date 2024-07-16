@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "email": "user1@example.com",
         "status": "INBOX",
         "subject": "Important Update",
@@ -7,6 +8,7 @@
         "date": "Jul 12"
     },
     {
+        "id": 2,
         "email": "user2@example.com",
         "status": "INBOX",
         "subject": "Meeting Reminder",
@@ -14,6 +16,7 @@
         "date": "Jul 10"
     },
     {
+        "id": 3,
         "email": "user3@example.com",
         "status": "SENT",
         "subject": "Project Proposal",
@@ -21,6 +24,7 @@
         "date": "Jul 08"
     },
     {
+        "id": 4,
         "email": "user4@example.com",
         "status": "INBOX",
         "subject": "Invoice Attached",
@@ -28,6 +32,7 @@
         "date": "Jul 05"
     },
     {
+        "id": 5,
         "email": "user5@example.com",
         "status": "DRAFT",
         "subject": "Feedback Request",
@@ -35,6 +40,7 @@
         "date": "Jul 03"
     },
     {
+        "id": 6,
         "email": "user6@example.com",
         "status": "INBOX",
         "subject": "LinkedIn - New Connection",
@@ -42,6 +48,7 @@
         "date": "Jun 30"
     },
     {
+        "id": 7,
         "email": "user7@example.com",
         "status": "SENT",
         "subject": "Follow-Up Email",
@@ -49,6 +56,7 @@
         "date": "Jun 25"
     },
     {
+        "id": 8,
         "email": "user8@example.com",
         "status": "INBOX",
         "subject": "Job Application",
@@ -56,6 +64,7 @@
         "date": "Jun 20"
     },
     {
+        "id": 9,
         "email": "user9@example.com",
         "status": "INBOX",
         "subject": "Newsletter Subscription",
@@ -63,6 +72,7 @@
         "date": "Jun 18"
     },
     {
+        "id": 10,
         "email": "user10@example.com",
         "status": "SENT",
         "subject": "Weekly Report",
@@ -70,6 +80,7 @@
         "date": "Jun 15"
     },
     {
+        "id": 11,
         "email": "user11@example.com",
         "status": "DRAFT",
         "subject": "Client Feedback",
@@ -77,6 +88,7 @@
         "date": "Jun 10"
     },
     {
+        "id": 12,
         "email": "user12@example.com",
         "status": "INBOX",
         "subject": "Server Downtime Notification",
@@ -84,6 +96,7 @@
         "date": "Jun 05"
     },
     {
+        "id": 13,
         "email": "user13@example.com",
         "status": "INBOX",
         "subject": "New Assignment",
@@ -91,6 +104,7 @@
         "date": "Jun 01"
     },
     {
+        "id": 14,
         "email": "user14@example.com",
         "status": "INBOX",
         "subject": "Holiday Plans",
@@ -98,10 +112,51 @@
         "date": "May 28"
     },
     {
+        "id": 15,
         "email": "user15@example.com",
         "status": "SENT",
         "subject": "Project Update",
         "flag": "READ",
         "date": "May 25"
+    },
+    {
+        "id": 16,
+        "email": "user16@example.com",
+        "status": "INBOX",
+        "subject": "Birthday Invitation",
+        "flag": "NEW",
+        "date": "May 20"
+    },
+    {
+        "id": 17,
+        "email": "user17@example.com",
+        "status": "DRAFT",
+        "subject": "Monthly Report",
+        "flag": "NEW",
+        "date": "May 15"
+    },
+    {
+        "id": 18,
+        "email": "user18@example.com",
+        "status": "INBOX",
+        "subject": "Congratulations!",
+        "flag": "READ",
+        "date": "May 10"
+    },
+    {
+        "id": 19,
+        "email": "user19@example.com",
+        "status": "SENT",
+        "subject": "Annual Meeting",
+        "flag": "NEW",
+        "date": "May 05"
+    },
+    {
+        "id": 20,
+        "email": "user20@example.com",
+        "status": "INBOX",
+        "subject": "Job Offer",
+        "flag": "RES",
+        "date": "May 01"
     }
 ]
